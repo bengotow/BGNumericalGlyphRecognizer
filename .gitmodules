@@ -1,0 +1,3 @@
+[submodule "Submodules/MultistrokeGestureRecognizer-iOS"]
+	path = Submodules/MultistrokeGestureRecognizer-iOS
+	url = git://github.com/bengotow/MultistrokeGestureRecognizer-iOS.git

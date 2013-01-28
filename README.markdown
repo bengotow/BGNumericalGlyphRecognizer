@@ -1,6 +1,6 @@
 # Overview
 
-![image](./Screenshot/screenshot1.png)
+![image](https://raw.github.com/bengotow/BGNumericalGlyphRecognizer/master/Screenshot/screenshot1.png)
 
 The BGNumericalGlyphRecognizer was developed for ScribbleMath for iOS. It extends the glyph recognition in [MultistrokeGestureRecognizer-iOS](https://github.com/bengotow/MultistrokeGestureRecognizer-iOS) to recognize the numbers 0-9, as well as the "minus" character. By itself, the MultistrokeGestureRecognizer-iOS is not sufficient to recognize the numbers 0-9. There are several improvements that were necessary:
 
@@ -13,7 +13,7 @@ The BGNumericalGlyphRecognizer was developed for ScribbleMath for iOS. It extend
 
 To enable the submission of "answers", the BGNumberCanvas also detects when the user circles existing glyphs in a large "0". In the ScribbleMath app, the student submits their answer by circling it. The app reads the glyphs left to right, and assembles an NSString that represents their submission.
 
-![image](./Screenshot/screenshot2.png)
+![image](https://raw.github.com/bengotow/BGNumericalGlyphRecognizer/master/Screenshot/screenshot2.png)
 Example of more complex number recognition
 
 ###Sidenote
